@@ -1,0 +1,11 @@
+D:\Backend\src\N-Tier.Shared\bin\Debug\netstandard2.1\N-Tier.Shared.deps.json
+D:\Backend\src\N-Tier.Shared\bin\Debug\netstandard2.1\N-Tier.Shared.dll
+D:\Backend\src\N-Tier.Shared\bin\Debug\netstandard2.1\N-Tier.Shared.pdb
+D:\Backend\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.csproj.AssemblyReference.cache
+D:\Backend\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.AssemblyInfoInputs.cache
+D:\Backend\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.AssemblyInfo.cs
+D:\Backend\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.csproj.CoreCompileInputs.cache
+D:\Backend\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.sourcelink.json
+D:\Backend\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.dll
+D:\Backend\src\N-Tier.Shared\obj\Debug\netstandard2.1\N-Tier.Shared.pdb

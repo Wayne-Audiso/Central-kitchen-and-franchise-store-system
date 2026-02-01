@@ -1,0 +1,13 @@
+D:\Backend\src\N-Tier.Core\bin\Debug\net9.0\N-Tier.Core.deps.json
+D:\Backend\src\N-Tier.Core\bin\Debug\net9.0\N-Tier.Core.dll
+D:\Backend\src\N-Tier.Core\bin\Debug\net9.0\N-Tier.Core.pdb
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\N-Tier.Core.csproj.AssemblyReference.cache
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\N-Tier.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\N-Tier.Core.AssemblyInfoInputs.cache
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\N-Tier.Core.AssemblyInfo.cs
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\N-Tier.Core.csproj.CoreCompileInputs.cache
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\N-Tier.Core.sourcelink.json
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\N-Tier.Core.dll
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\refint\N-Tier.Core.dll
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\N-Tier.Core.pdb
+D:\Backend\src\N-Tier.Core\obj\Debug\net9.0\ref\N-Tier.Core.dll
